@@ -4,7 +4,8 @@
   "description": "root",
   "main": "index.js",
   "scripts": {
-    "start": ""
+    "start": "",
+    "db": ""
   },
   "keywords": [],
   "author": "Evgen Zaharchenko",
