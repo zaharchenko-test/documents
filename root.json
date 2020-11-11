@@ -2,12 +2,7 @@
   "name": "documents",
   "version": "1.0.0",
   "description": "root",
-  "main": "index.js",
-  "scripts": {
-    "start": "",
-    "db": ""
-  },
-  "keywords": [],
+  "keywords": ["sass", "projects"],
   "author": "Evgen Zaharchenko",
   "license": "ISC"
 }
