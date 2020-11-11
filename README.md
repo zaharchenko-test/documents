@@ -1,1 +1,1 @@
-# full web-dev repository
+# full-stack web repository
